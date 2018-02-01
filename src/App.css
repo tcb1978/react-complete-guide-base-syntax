@@ -1,0 +1,17 @@
+.App {
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.userName {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 15px;
+  border: 1px solid #ccc;
+  width: 60%;
+  margin: 0 auto;
+  box-shadow: 3px 3px #ccc;
+  border-radius: 5px;
+}
